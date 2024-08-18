@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wbKNlR292Z5I3aEF3UspFR1pUe2N3awdHVOZXQ3MjUzp3MKdHW3gHNXV3ZjMUYMNFSrVEbpwd=866057277362',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -34,7 +34,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   STICKER_AUTHOR: 'Kɪɴɢ Dᴀʀʀᴇʟʟ',
   STICKER_PACK: 'Dᴀʀʀᴇʟʟs Gᴀʟʟᴇʀʏ',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 3000,
+  MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '🧠',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
