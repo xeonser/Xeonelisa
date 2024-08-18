@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wbKNlR292Z5I3aEF3UspFR1pUe2N3awdHVOZXQ3MjUzp3MKdHW3gHNXV3ZjMUYMNFSrVEbpwd=866057277362',
+  SESSION_ID: '',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -17,31 +17,31 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+S U B Z E R O - M D`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
   PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: 'zero',
-  OWNER_NAME: 'mr frank',
+  BOT_NAME: '𝚂𝚄𝙱𝚉𝙴𝚁𝙾-𝙼𝙳',
+  OWNER_NAME: '𝙼𝚁 𝙵𝚁𝙰𝙽𝙺',
   OWNER_NUMBER: '263719647303',
   SUDO: '263719647303',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Dᴀʀʀᴇʟʟ',
-  STICKER_AUTHOR: 'Kɪɴɢ Dᴀʀʀᴇʟʟ',
-  STICKER_PACK: 'Dᴀʀʀᴇʟʟs Gᴀʟʟᴇʀʏ',
+  CAPTION: '© 𝙼𝙰𝙳𝙴 4 𝚈𝙾𝚄 𝙱𝚈 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙰𝙸❤️\n   +263719647303',
+  STICKER_AUTHOR: '𝙼𝚁 𝙵𝚁𝙰𝙽𝙺',
+  STICKER_PACK: '𝙵𝙸𝚇𝙸𝚃 𝙱𝚈 =>',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90,
+  MAXIMUM_FILESIZE: 9000,
   OWNER_R_EMOJI: '🧠',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
-  ONLY_PM_GROUP_MSG_SEND: false,
+  ONLY_PM_GROUP_MSG_SEND: true,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
   READ_MESSAGE: false,
@@ -61,16 +61,16 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
-    ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
-    ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
-    BAD_DETECT_MSG: '@user Bad Words Are Disable by Owner!',
-    BANED_MSG: "@user You Can't use bot, You are baned by Mr Frank!",
-    GROUP_LEAVE: '👋 Bye @groupName I am Going.',
+    ONLY_GROUP_MSG: 'Subzero  Can Use Groups!',
+    ONLY_PM_MSG: 'Subzero Can Use Private Chats!',
+    BAD_DETECT_MSG: '@user Bad Words Are For Your Family Not here!\n\n𝓜𝓻 𝓕𝓻𝓪𝓷𝓴',
+    BANED_MSG: "@user You Can't use SubZero, You are banned by 𝓜𝓻 𝓕𝓻𝓪𝓷𝓴!",
+    GROUP_LEAVE: '👋 Bye @groupName I am Going.🥹\n\n 𝓢𝓾𝓫𝓩𝓮𝓻𝓸 𝓫𝔂 𝓜𝓻 𝓕𝓻𝓪𝓷𝓴',
     INBOX_BLOCK:
-      '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
+      '❌ MR FRANK has activated auto inbox blocking. So you will be auto blocked after 8 seconds starting now 8..7..😶‍🌫'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ 𝚂𝚄𝙱𝚉𝙴𝚁𝙾 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
