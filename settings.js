@@ -20,7 +20,7 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.$&',
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: 'zero',
