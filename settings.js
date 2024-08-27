@@ -20,7 +20,7 @@ module.exports = {
 S U B Z E R O - M D`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.',
+  PREFIX: ',',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝚂𝚄𝙱𝚉𝙴𝚁𝙾-𝙼𝙳.',
